@@ -16,7 +16,7 @@ Mid-January 2018 you'll get the chance to present your project at BerlinJS, if y
 - [ ] Click on marker highlights the meetup on the list
 - [ ] Click on meetup will open up the details page
 
-\* The server implementation can be found here: [https://github.com/berlinjs/framework-special-2018-backend](https://github.com/berlinjs/framework-special-2018-backend). It's also deployed to http://berlin-meetups.glitch.me, so you don't have to run it yourself.
+\* The server implementation can be found here: [https://github.com/berlinjs/framework-special-2018-backend](https://github.com/berlinjs/framework-special-2018-backend). It's also deployed to http://berlin-meetup.glitch.me, so you don't have to run it yourself.
 
 Don't worry if you don't finish the whole task, as we've said: This is entirely about learning new stuff. Also, the presentations will be in January, so there's some time left to finish if you found some joy in the project :)
 
