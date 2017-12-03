@@ -20,13 +20,17 @@ Mid-January 2018 you'll get the chance to present your project at BerlinJS, if y
 
 Don't worry if you don't finish the whole task, as we've said: This is entirely about learning new stuff. Also, the presentations will be in January, so there's some time left to finish if you found some joy in the project :)
 
-**Note**: it would be ace if you'd tell us about your project so we can link to it here :) Just open up an issue or
+Also this is not a fixed list, if you have some additional ideas you wanna add, please go ahead.
+
+**Note**: it would be ace if you'd tell us about your project so we can link to it here :) Just open up an issue or ping us via Twitter :)
 
 ## 🗣 Communications
 
 There's a `#framework-hackathon` channel on our [Slack](https://berlinjs-slack.herokuapp.com). Join us there.
 
 You can also ping us on Twitter ([@berlinjs](https://twitter.com/berlinjs)) anytime.
+
+Remember, this is a friendly hackathon and the main focus is to learn new things, so don't hesitate to ask and it's totally fine if you don't know everything.
 
 ## 📖 Code of Conduct
 
